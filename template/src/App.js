@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import List from './List';
 
 function App() {
   const [items, setItems] = useState([]);
@@ -10,7 +9,6 @@ function App() {
 
   return (
     <>
-      <List items={items} />
     </>
   );
 }

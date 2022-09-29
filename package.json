@@ -1,6 +1,6 @@
 {
   "name": "cra-template-tau-todo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "template.json",
   "repository": {
     "type": "git",
